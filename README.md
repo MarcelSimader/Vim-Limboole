@@ -1,3 +1,5 @@
+**WARNING!** This is now deprecated, see 'MarcelSimader/Vim-SAT+QBF' instead!
+
 Limboole support in Vim
 ==========================================================================================
 
